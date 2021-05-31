@@ -35,3 +35,7 @@ nav a:hover {
     width: 20%;
     margin-left: 10%;
 }
+
+.card a {
+    text-align: center;
+}
